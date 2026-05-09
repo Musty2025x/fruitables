@@ -28,6 +28,8 @@ Apache Web Server
     ▼
 http://your-domain.com/myapp  (HTTPS secured)
 ```
+<img width="2242" height="1203" alt="Architecture_diagram" src="https://github.com/user-attachments/assets/53b68d46-bc78-40e6-aea2-39f6ebcac585" />
+
 
 ---
 
